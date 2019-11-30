@@ -1,0 +1,3 @@
+[console_scripts]
+redis_run = DrQueue.RedisRun.redis_run:main
+
